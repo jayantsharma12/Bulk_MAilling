@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bulk Email Sender (Streamlit)
 
 Professional Streamlit web application for automated bulk email sending with support for Gmail, Outlook, and custom email domains.
@@ -66,3 +67,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 
 python -m streamlit run app.py
+=======
+# Bulk_MAilling
+Bulk mailing system
+>>>>>>> 384d192b7663056621d4ba8d9c0d4669d70de6e9
