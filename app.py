@@ -507,7 +507,7 @@ def send_followup_emails(campaign_name, email_address, app_password,
     update_campaign_recipients(campaign_name, recipients)
     return sent_count, failed_count, results
 
-
+https://github.com/jayantsharma12/Bulk_MAilling.git
 # ─────────────────────────────────────────────
 #  MAIN APP — EXACTLY SAME UI AS BEFORE
 # ─────────────────────────────────────────────
